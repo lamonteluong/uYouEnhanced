@@ -17,7 +17,7 @@ on:
         required: true
         type: string
       decrypted_youtube_url:
-        description: "Direct URL of the decrypted YouTube IPA"
+        description: "https://dn721903.ca.archive.org/0/items/com.google.ios.youtube-20.05.4-Decrypted/com.google.ios.youtube-20.05.4-Decrypted.ipa"
         default: ""
         required: true
         type: string
